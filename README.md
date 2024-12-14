@@ -7,11 +7,11 @@
 
   ## Instrucciones
   
-En cada carpeta correspondiente a una Kata encontrarás:
+En el repositorio principal encontrarás:
 
-🗗 El archivo principal, llamado Proyecto.java, que incluye el código fuente de la solución.
+🗗 Una carpeta llamada **Proyectos** donde se ubican los Archivos.java con las soluciones a las Katas.
 
-🗗 Una subcarpeta adicional que contiene las capturas de pantalla generadas durante el desarrollo y depuración del programa.
+🗗 Una carpeta llamada **Capturas** donde estarán las capturas de pantalla realizadas a lo largo del proceso de debugging.
 
   ## Proceso
   
