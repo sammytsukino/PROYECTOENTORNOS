@@ -6,13 +6,40 @@
   En este repositorio encontrarás la **solución**, los **ficheros.java** y las **capturas de pantalla** de las Katas **Fizzbuzz** y **Tamagotchi**.
 
   ## Instrucciones
-  En cada carpeta encontrarás tanto el Proyecto.java de la Kata como otra carpeta con las capturas de pantalla correspondientes.
+  
+En cada carpeta correspondiente a una Kata encontrarás:
+
+🗗 El archivo principal, llamado Proyecto.java, que incluye el código fuente de la solución.
+
+🗗 Una subcarpeta adicional que contiene las capturas de pantalla generadas durante el desarrollo y depuración del programa.
 
   ## Proceso
-  Para cada Kata propuesta, he planteado un programa en Java que cumpla con las especificaciones pedidas. Para debugearlos, he usado la herramienta de debug de Eclipse en la que he ido poniendo breakpoints en las líneas de código que me parecían interesantes. A partir de ahí, a través de los comandos de la herramienta, he ido comprobando cómo se modificaban las variables acorde a las instrucciones que puse.
+  
+Para abordar las Katas propuestas, seguí un enfoque estructurado basado en las siguientes etapas:
+
+### Desarrollo del Programa en Java:
+
+ ✿ Implementé un programa en el lenguaje Java que cumple estrictamente con las especificaciones proporcionadas para cada una de las Katas.
+
+ ✿ Me aseguré de que el código reflejara una lógica clara y eficiente, capaz de resolver los problemas planteados de forma adecuada.
+
+### Depuración utilizando Eclipse:
+
+☆ Para analizar y perfeccionar el comportamiento del programa, utilicé la herramienta de depuración integrada en el entorno de desarrollo Eclipse.
+
+☆ Establecí puntos de interrupción (breakpoints) estratégicos en líneas de código clave, donde era importante observar el comportamiento de las variables y el flujo lógico del programa.
+
+☆ A través de los comandos de la herramienta, examiné cómo evolucionaban las variables y cómo se ejecutaban las instrucciones paso a paso, permitiéndome identificar posibles errores o áreas de mejora.
 
   ## Conclusión
-El uso de la herramienta de debug me ha ayudado a ver cómo funcionan los bucles, cómo cambian las variables o cómo es el proceso lógico de Java punto por punto.
+  
+  El uso de la herramienta de depuración de Eclipse fue de gran ayuda para:
+  
+♡ Comprender el funcionamiento interno de los bucles y cómo iteran sobre las estructuras de datos. Esta comprensión permitió implementar soluciones más óptimas y adaptadas a las especificaciones de las Katas.
+
+♡ Observar los cambios en el estado de las variables durante la ejecución del programa. Esto ayudó a identificar de manera precisa los puntos donde ocurrían errores lógicos o técnicos.
+
+♡ Analizar el flujo lógico del código de Java con gran detalle, permitiendo un nivel de comprensión más profundo del proceso computacional. Gracias a este análisis, pude optimizar el código y garantizar que las soluciones fueran eficientes y escalables.
 
 ---------------------------------------------
 
